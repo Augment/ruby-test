@@ -1,6 +1,7 @@
 # Level 2
 
-A worker is either a `medic` or an `interne` and their shifts are paid according their status.
+A worker is either a `medic` or an `intern` and their shifts are paid
+according their status.
 
 Per shift, a medic is paid 270 € and an intern is paid 126 €.
 
