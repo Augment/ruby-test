@@ -17,9 +17,9 @@ necessary. Don't hesitate to write [shameless code][1] at first, and then
 refactor it in the next levels.
 
 We are interested in seeing code that is:
-- Correct
 - Clean
+- Robust
+- Tested
 - Extensible
-- Robust (don't overlook edge cases, use exceptions where needed, ...)
 
 [1]: http://red-badger.com/blog/2014/08/20/i-spent-3-days-with-sandi-metz-heres-what-i-learned/
