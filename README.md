@@ -1,7 +1,5 @@
 # Augment Backend Ruby Challenge
 
- Looking for a job? Check out our [open positions](https://www.welcometothejungle.co/companies/augment/jobs/ruby-on-rails-full-stack-developer_paris).
-
 ## Guidelines
 
 - clone this repo (do **not** fork it)
